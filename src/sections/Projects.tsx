@@ -69,7 +69,7 @@ const Projects = () => {
               <Image
                 src={project.image}
                 alt="project-image"
-                className=" lg:w-[50%] xs:rounded-br-3xl xs:rounded-bl-3xl lg:rounded-t-3xl bg-cover"
+                className=" lg:w-[50%] rounded-3xl"
               />
 
               {/* <Image src={project.image} alt="project-image" /> */}
