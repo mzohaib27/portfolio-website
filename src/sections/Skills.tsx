@@ -13,7 +13,7 @@ import {
   ts,
 } from "@/assets/constants/constants.js";
 
-const Testimonials = () => {
+const Skills = () => {
   return (
     <>
       <div className="flex flex-col gap-6 px-6 md:px-12 lg:px-24 lg:max-w-7xl ">
@@ -206,4 +206,4 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;
+export default Skills;
