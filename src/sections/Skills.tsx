@@ -5,7 +5,6 @@ import {
   html,
   css,
   react,
-  reactNative,
   nextjs,
   framermotion,
   redux,
