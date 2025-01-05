@@ -39,7 +39,7 @@ const Hero = () => {
           </h1>
           <p className="text-white/70 text-xs md:text-base w-[80%] md:w-[55%] text-center">
             I specializes to convert designs into functional, high-performing
-            web applications. Let's connect 👋
+            web applications.
           </p>
           <div className="flex gap-2">
             <button className="px-4 py-1 rounded-full border border-white/50 bg-gray-700 hover:bg-transparent hoverEffect text-xs md:text-base">
