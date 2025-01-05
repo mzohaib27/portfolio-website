@@ -8,10 +8,10 @@ const Contact = () => {
         <div className="lg:flex items-center bg-gradient-to-r from-emerald-300 via-sky-200 to-sky-400 rounded-3xl py-6">
           <div className="flex flex-col gap-2 px-12 py-6 lg:w-[80%] ">
             <h1 className="text-2xl md:text-3xl font-serif text-gray-900">
-              Let's Create Something Amazing Together!
+              Let&apos;s Create Something Amazing Together!
             </h1>
             <p className="text-gray-900  tracking-wider">
-              Ready to bring your next project to life? Let's connect and
+              Ready to bring your next project to life? Let&apos;s connect and
               discuss how can i help you to achieve your goals
             </p>
           </div>
